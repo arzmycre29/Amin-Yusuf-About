@@ -2463,7 +2463,7 @@
 .Contact-Me{
   position:relative;
   z-index:89;
-  pointer-events:pointer;
+  cursor: pointer;
   margin-left:328px;
   width:142px;
   min-width:142px;
@@ -2490,7 +2490,7 @@
 .About{
   position:relative;
   z-index:87;
-  pointer-events:pointer;
+  cursor: pointer;
   margin-left:0px;
   width:74px;
   min-width:74px;
@@ -2517,7 +2517,7 @@
 .Portfolio{
   position:relative;
   z-index:88;
-  pointer-events:pointer;
+  cursor: pointer;
   margin-left:-68px;
   width:102px;
   height:36px;
