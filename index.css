@@ -2061,7 +2061,6 @@ a {
 }
 .text-download-outer{
   pointer-events:auto;
-  cursor:pointer;
   z-index:102;
   position:absolute;
   display:flex;
